@@ -1,0 +1,27 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Project made to participate in the Front-end Position vacancy",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilo6castell/assignment.git"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Camilo Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilo6castell/assignment/issues"
+  },
+  "homepage": "https://github.com/camilo6castell/assignment#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1"
+  }
+}
