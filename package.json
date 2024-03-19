@@ -4,7 +4,7 @@
   "description": "Project made to participate in the Front-end Position vacancy",
   "main": "src/index.js",
   "scripts": {
-    "test": "run dev"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/camilo6castell/assignment#readme",
   "devDependencies": {
-    "grunt": "^1.6.1"
+    "grunt": "^1.6.1",
+    "grunt-contrib-concat": "^2.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2"
   }
 }
